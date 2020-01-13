@@ -33,6 +33,7 @@ if __name__ == '__main__':
 
 <p align=center float="left">
     <img width="50%" scr="https://github.com/Xenia101/Executable-file-decompile/blob/master/img/sample.PNG?raw=true">
+    
     <img width="50%" src="https://github.com/Xenia101/Executable-file-decompile/blob/master/img/pyimod01_os_path.PNG?raw=true">
 </p>
 
