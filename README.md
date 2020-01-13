@@ -27,6 +27,13 @@ if __name__ == '__main__':
 
 3. Run pyinstxtractor.py in CMD
 
-    ``` python pyinstxtractor.py sample.exe ```
-    
-4. 
+    ``` python pyinstxtractor.py ./build/sample/sample.exe ```
+
+4. Find magic number..
+
+<p align=center float="left">
+    <img width="50%" scr="https://github.com/Xenia101/Executable-file-decompile/blob/master/img/sample.PNG?raw=true">
+    <img width="50%" src="https://github.com/Xenia101/Executable-file-decompile/blob/master/img/pyimod01_os_path.PNG?raw=true">
+</p>
+
+5. 
