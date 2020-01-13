@@ -29,12 +29,21 @@ if __name__ == '__main__':
 
     ``` python pyinstxtractor.py ./build/sample/sample.exe ```
 
-4. Find magic number..
+4. Find magic number using HxD..
 
-<p align=center float="left">
-    <img width="50%" scr="https://github.com/Xenia101/Executable-file-decompile/blob/master/img/sample.PNG?raw=true">
-    
-    <img width="50%" src="https://github.com/Xenia101/Executable-file-decompile/blob/master/img/pyimod01_os_path.PNG?raw=true">
+- Any file in sample.exe_extracted ex) pyimod01_os_path
+
+<p align=center>
+    <img src="https://github.com/Xenia101/Executable-file-decompile/blob/master/img/pyimod01_os_path.PNG?raw=true"/>
 </p>
+
+- origin file sample (A file named sample)
+
+<p align=center>
+    <img src="https://github.com/Xenia101/Executable-file-decompile/blob/master/img/sample.PNG?raw=true"/>
+</p>
+
+**E3 is magic number** Copy it and put it in front of origin file E3.
+
 
 5. 
