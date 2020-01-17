@@ -1,1 +1,3 @@
 __pycache__/* linguist-vendored
+build/sample/* linguist-vendored
+dist/sample/* linguist-vendored
