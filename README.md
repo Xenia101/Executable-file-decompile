@@ -6,7 +6,7 @@ Executable file decompile (sample.exe → sample.py)
 >A decompiler is a computer program that takes an executable file as input, and attempts to create a high level source file which can be recompiled successfully. It is therefore the opposite of a compiler, which takes a source file and makes an executable. Decompilers are usually unable to perfectly reconstruct the original source code, and as such, will frequently produce obfuscated code. Nonetheless, decompilers remain an important tool in the reverse engineering of computer software.
 [WIKIPEDIA](https://en.wikipedia.org/wiki/Decompiler)
 
-## EXAMPLE
+## Example
 
 1. First, make an EXE file ```pyinstaller sample.py```
 
